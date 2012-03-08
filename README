@@ -1,1 +1,3 @@
-This file was created by IntelliJ IDEA 11.0 for binding GitHub repository
+This project set up for mining the code commits to github.
+
+For example, we try to find out long method, duplicate code.
